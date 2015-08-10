@@ -5,6 +5,9 @@ Simple plugin for communicating with a Plex Media Server. Requires myPlex.
 - TV Shows
 
 ## Changelog:
+### movian (1.5)
+- Updated for movian v4.10 with ECMAscript
+
 ### myPlex (1.1)
 - myPlex. Authenticate and get all available Plex Media Servers for your account.
 
