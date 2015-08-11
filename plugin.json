@@ -1,5 +1,6 @@
 {
 	"type": "ecmascript",
+	"apiversion": 1,
 	"id": "plex",
 	"file": "plex.js",
 	"showtimeVersion": "4.10",
@@ -8,5 +9,7 @@
 	"title": "Plex Client",
 	"icon": "plex-logo.png",
 	"synopsis": "Plex Media Server client for Showtime",
-	"description": "Play content from your Plex Media Server!"
+	"category": "video",
+	"description": "Play content from your Plex Media Server!",
+	"homepage": "https://github.com/pardegerman/Showtime-Plex-Client"
 }
