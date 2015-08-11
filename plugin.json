@@ -4,12 +4,12 @@
 	"id": "plex",
 	"file": "plex.js",
 	"showtimeVersion": "4.10",
-	"version": "1.5",
-	"author": "Björn Dahlgren, Pär Degerman",
-	"title": "Plex Client",
+	"version": "1.6",
+	"author": "Pär Degerman, Björn Dahlgren",
+	"title": "Movian Plugin for Plex",
 	"icon": "plex-logo.png",
 	"synopsis": "Plex Media Server client for Showtime",
 	"category": "video",
-	"description": "Play content from your Plex Media Server!",
-	"homepage": "https://github.com/pardegerman/Showtime-Plex-Client"
+	"description": "This plugin allows yo to play content from your Plex Media Server(s) directly in Movian",
+	"homepage": "https://github.com/pardegerman/movian-plugin-for-Plex"
 }

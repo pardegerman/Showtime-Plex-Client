@@ -5,6 +5,9 @@ Simple plugin for communicating with a Plex Media Server. Requires myPlex.
 - TV Shows
 
 ## Changelog:
+### rename (1.6)
+- Rename to reflect the upstream namechange and adhere better with the Plex guidelines, see: https://forums.plex.tv/discussion/121183/guidelines-for-usage-of-plex-name-logo-trademarks-and-more
+
 ### movian (1.5)
 - Updated for movian v4.10 with ECMAscript
 

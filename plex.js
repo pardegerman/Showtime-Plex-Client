@@ -1,8 +1,10 @@
 /**
- *  Plex for showtime by Björn Dahlgren (bjorn@dahlgren.at)
+ *  Movian plugin for Plex
+ *  Original version for showtime v 3 by Björn Dahlgren (bjorn@dahlgren.at)
  *  updated for movian v 4.10 by Pär Degerman (par@degerman.org)
  *
- *  Copyright 2011 Björn Dahlgren, 2015 Pär Degerman
+ *  Copyright 2011 Björn Dahlgren
+ *  Copyright 2015 Pär Degerman
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
